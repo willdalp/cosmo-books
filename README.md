@@ -2,6 +2,9 @@
 
 Sistema de cadastro de livros e consulta/cadastro de API's externas
 
+##Prototipação
+- [Figma](https://www.figma.com/design/n2fBKHZTOBVm42kpRjlNtv/Desafio---Cosmonauta?node-id=0-1&t=671zvXZY5VDGlHjx-1)
+
 ## Installation
 
 - **Necessário o docker engine ou desktop instalado em sua maquina**
