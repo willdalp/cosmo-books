@@ -80,7 +80,7 @@ const submit = () => {
                 </div>
     
                 <div class="container-primary-button">
-                    <PrimaryButton class="primary-button" :disabled="form. processing">
+                    <PrimaryButton :disabled="form. processing">
                         Efetuar Login
                     </PrimaryButton>
                 </div>
